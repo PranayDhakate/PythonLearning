@@ -57,10 +57,10 @@ print(add)
 
 #Take input from user
 
-Name = input("What is your name?")
+Name = input("What is your name?\n")
 print("Welcome ", Name)
 
-age = input("What is your age? ")
+age = input("What is your age?\n")
 print(type(age), age)
 
 print(type(int(age)),age)
