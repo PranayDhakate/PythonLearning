@@ -14,7 +14,7 @@ print (str1 ,"\n", str2)
 fname = "Pranay"
 lname = "Dhakate"
 
-print(fname + " " + lname)
+print(fname + " " + lname) 
 
 #Length functn (Space is also calculated in len function)
 
