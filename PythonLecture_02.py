@@ -30,3 +30,4 @@ print(homeTown[0:4])
 
 print(homeTown[1:len(homeTown)]) # same as str[1: ]
 print(homeTown[ : 4]) #same as str[0:4]
+print(homeTown[-1:-1])
